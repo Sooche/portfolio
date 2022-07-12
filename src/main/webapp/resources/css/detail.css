@@ -1,0 +1,159 @@
+@charset "UTF-8";
+
+
+.titlebox{
+	position: absolute;
+width: 1291px;
+height: 77px;
+left: 78px;
+top: 24px;
+	
+	
+}
+.gametitle{
+	position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+font-family: 'Athiti';
+font-style: normal;
+font-weight: 700;
+font-size: 62.694px;
+line-height: 100px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+	
+}
+
+
+.thumbnaildiv {
+	position: absolute;
+	width: 327px;
+	height: 280px;
+	left: 1467px;
+	top: 124px;
+
+	
+}
+
+.buybutton{
+	
+	position: absolute;
+width: 327px;
+height: 59px;
+left: 1462px;
+top: 454px;
+	
+}
+#btnDownload{
+	
+	position: absolute;
+width: 327px;
+height: 59px;
+left: 1462px;
+top: 454px;
+	
+background: #0027F3;
+box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+
+
+font-style: normal;
+font-weight: 700;
+font-size: 43.9579px;
+line-height: 80px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+}
+
+
+
+
+.logo{
+	
+	position: absolute;
+width: 336px;
+height: 334px;
+left: 1458px;
+top: 551px;
+
+}
+
+.content{
+	
+	position: absolute;
+width: 1305px;
+height: 241px;
+left: 64px;
+top: 651px;
+	
+}
+
+.RS{
+position: absolute;
+width: 1305px;
+height: 693px;
+left: 64px;
+top: 915px;
+}
+
+.hr{
+	position: absolute;
+width: 1954px;
+height: 0px;
+left: -34px;
+top: 1488px;
+
+}
+
+#replyAddShow{
+	
+position: absolute;
+width: 192px;
+height: 46px;
+top:1500px;
+Left: 950px;
+}
+
+.cardmb-2{
+	position : absolute;
+	top: 1520px;
+	left: 150px;
+
+}
+
+.reply-div{
+	
+	position: absolute;
+width: 1538px;
+height: 185px;
+left: 220px;
+top: 1849px;
+	
+}
+
+.replyboard{
+width: 1538px;
+height: 185px;
+
+	
+}
+
+#replycontent{
+	width: 1538px;
+height: 185px;
+left: 220px;
+top: 1749px;
+	
+}

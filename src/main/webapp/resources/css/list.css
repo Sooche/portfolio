@@ -1,0 +1,194 @@
+@charset "UTF-8";
+
+
+.justback{
+	position: absolute;
+width: 1920px;
+height: 1080px;
+left: 0px;
+top: 227px;
+
+background: rgba(232, 229, 229, 0.31);
+	
+}
+
+
+.back{
+	position: absolute;
+
+left: 0px;
+top: 227px;
+
+background: rgba(232, 229, 229, 0.31);
+	
+}
+
+.hraddiv{
+	position: sticky;
+}
+
+.aLogout{
+position: absolute;
+width: 44px;
+height: 18px;
+left: 1382px;
+top: 36px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 18px;
+display: flex;
+align-items: center;
+
+color: #000000;
+}
+
+
+.library{
+position: absolute;
+width: 44px;
+height: 18px;
+left: 1460px;
+top: 36px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 18px;
+display: flex;
+align-items: center;
+
+color: #000000;
+	
+}
+
+.storediv{
+	display : flex;
+	flex-wrap: wrap;
+
+
+	background: #D9D9D9;
+
+}
+
+
+.linkbox{
+	
+	width: 220px;
+	height: 310px;
+	
+	
+	margin: 30px;
+	background: #D9D9D9;
+	border: 1px solid #000000;
+	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+	
+}
+
+.listimg{
+
+	left: 10px;
+}
+.imgword{
+	
+ text-align: center;
+  
+}
+
+
+
+.search{
+box-sizing: border-box;
+position: absolute;
+display:flex;
+width: 170px;
+height: 24px;
+left: 120px;
+top: 170px;
+z-index: 289;
+border: 1px solid  #000000;
+
+
+}
+.line{
+	font-family: 'Arial';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 18px;
+display: flex;
+	 text-decoration-line: none;
+	
+		color: #000000;
+}
+
+.searchbar{
+	display : flex;
+	box-sizing: border-box;
+
+position: absolute;
+width: 147px;
+height: 20px;
+left: 20px;
+top: 1px;
+
+background: rgba(255, 255, 255, 0.01);
+	
+}
+.seachbutton{
+	display : flex;
+	
+
+position: absolute;
+width: 10px;
+height: 10px;
+left: 148px;
+top: 5px;
+z-index:100;
+color: #FFFFFF;
+opacity: 0.0001;
+	
+}
+.icon{
+	position: absolute;
+	 left:150;
+	 top:5
+	
+}
+
+.selectbox{
+z-index: 3;
+
+
+position: absolute;
+width: 20px;
+height: 22px;
+left: 0px;
+top: 0px;
+
+	background: rgba(232, 229, 229, 0);
+}
+
+.listlogo{
+	
+	position: absolute;
+width: 287px;
+height: 136.2px;
+left: 816px;
+top: 16px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 120.637px;
+line-height: 146px;
+display: flex;
+align-items: center;
+
+
+color: #000000;
+}
+

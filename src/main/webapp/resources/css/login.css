@@ -1,0 +1,126 @@
+@charset "UTF-8";
+
+.Logo{
+position: absolute;
+width: 181px;
+height: 79px;
+left: 869px;
+top: 108px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 74.1023px;
+line-height: 90px;
+
+color: #000000;
+	
+	
+}
+
+.login{
+position: absolute;
+width: 126px;
+height: 59px;
+left: 897px;
+top: 281px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 48.8842px;
+line-height: 59px;
+
+color: #000000;
+	
+}
+
+.loginbar{
+	
+	box-sizing: border-box;
+
+position: absolute;
+width: 308px;
+height: 32px;
+left: 806px;
+top: 367px;
+
+background: #FFFFFF;
+border: 1px solid rgba(0, 0, 0, 0.44);
+}
+
+.passwdbar{
+box-sizing: border-box;
+
+position: absolute;
+width: 308px;
+height: 32px;
+left: 806px;
+top: 418px;
+
+background: #FFFFFF;
+border: 1px solid rgba(0, 0, 0, 0.44);
+	
+}
+
+#btnLogin{
+box-sizing: border-box;
+
+position: absolute;
+width: 260px;
+height: 29px;
+left: 830px;
+top: 467px;
+
+background: rgba(29, 42, 74, 0.88);
+border: 1px solid rgba(143, 142, 142, 0.19);
+box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 29px;
+align-items: center;
+text-align: center;
+color: #FFFFFF;
+}
+
+#aJoin{
+box-sizing: border-box;
+
+position: absolute;
+width: 260px;
+height: 29px;
+left: 830px;
+top: 512px;
+
+background: rgba(29, 42, 74, 0.88);
+border: 1px solid rgba(143, 142, 142, 0.19);
+box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+
+}
+.joinbar{
+
+
+position: absolute;
+width: 260px;
+height: 29px;
+left: -2px;
+top: -2px;
+
+background: rgba(29, 42, 74, 0.88);
+border: 1px solid rgba(143, 142, 142, 0.19);
+box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 24.2188px;
+line-height: 29px;
+
+color: #FFFFFF;
+
+}

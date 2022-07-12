@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="game.site.wep.libraryMapper">
+	
+	<select id="selectList" resultType="Trade">
+	select  *
+		from trade t join gameboard gb 
+		on(t.boardnum = gb.boardnum)
+	where t.userid =#{userid}
+	
+	
+	</select>
+	
+	<select id="selectTotalCnt" resultType="int">
+		select count(*) boardnum from trade
+		WHERE userid = #{userid}
+	
+	</select>
+	
+</mapper>

@@ -1,0 +1,340 @@
+@charset "UTF-8";
+
+.container{
+	
+position: sticky;
+	top:120px;
+	
+	
+}
+
+.Logo{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 50.4483px;
+line-height: 38px;
+
+
+text-decoration:none;
+color: #000000;
+	
+}
+
+.signup{
+	
+position: absolute;
+width: 300px;
+height: 60px;
+left: 1170px;
+top: 150px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 60.4483px;
+line-height: 38px;
+
+color: #000000;
+}
+
+.hr{
+	position: absolute;
+width: 2600px;
+height: 0px;
+left: 0px;
+top: 60px;
+bottom: 916px;
+
+border: 1px solid #92DDA7;
+transform: rotate(0.08deg);
+	
+}
+
+
+.singup{
+	
+	position: absolute;
+	
+	
+}
+
+.id_div{
+	position:absolute;
+	left: 1100px;
+	top :300px;
+	
+}
+.id_label{
+		position: absolute;
+width: 92.68px;
+height: 27px;
+top: -10px;
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 22.9487px;
+line-height: 28px;
+
+color: #000000;
+	
+	
+}
+
+#userid{
+	width: 385px;
+height: 38px;
+	
+}
+
+.email_div{
+	position:absolute;
+	left: 1100px;
+	top :400px;
+	
+		
+}
+.email_label{
+			position: absolute;
+width: 92.68px;
+height: 27px;
+top: -10px;
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 22.9487px;
+line-height: 28px;
+
+color: #000000;
+	
+}
+
+#email{
+	
+	width: 385px;
+	height: 38px;
+	}
+
+
+
+.passwd_div{
+	
+		position:absolute;
+	left: 1100px;
+	top :500px;
+	
+}
+
+.passwd_label{
+			position: absolute;
+width: 92.68px;
+height: 27px;
+top: -10px;
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 22.9487px;
+line-height: 28px;
+
+color: #000000;	
+	
+}
+#passwd{
+	
+width: 385px;
+height: 38px;
+}
+
+
+.passwd_con_div{
+	
+		position:absolute;
+	left: 1100px;
+	top :600px;
+}
+
+.passwd_con_label{
+			position: absolute;
+width: 180.68px;
+height: 27px;
+top: -10px;
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 22.9487px;
+line-height: 28px;
+
+color: #000000;
+	
+}
+
+#passwdConfirm{
+	
+width: 385px;
+height: 38px;
+}
+
+
+
+
+.nickname_div{
+		position:absolute;
+	left: 1100px;
+	top :700px;
+}
+
+.nickname_label{
+	
+position: absolute;
+width: 180.68px;
+height: 27px;
+top: -10px;
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 22.9487px;
+line-height: 28px;
+
+color: #000000;
+	
+}
+
+#usernickname{
+width: 385px;
+height: 38px;
+	
+}
+
+.name_div{
+	
+		position:absolute;
+	left: 1100px;
+	top :800px;
+	
+}
+
+.name_label{
+position: absolute;
+width: 180.68px;
+height: 27px;
+top: -10px;
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 22.9487px;
+line-height: 28px;
+
+color: #000000;
+	
+	
+}
+
+#username{
+width: 385px;
+height: 38px;
+}
+
+.zipcode{
+	position:absolute;
+	left: 1200px;
+	top :900px;
+	
+}
+
+.zopcode_label{
+position: absolute;
+width: 180.68px;
+height: 27px;
+left:1100px;
+top:900px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 22.9487px;
+line-height: 28px;
+
+color: #000000;	
+	
+}
+
+#zipcode{
+	
+	width: 80px;
+	height: 38px;
+	
+}
+
+.addrload{
+	position:absolute;
+	left: 1100px;
+	top :970px;
+	
+}
+
+.addrload_label{
+	position: absolute;
+width: 180.68px;
+height: 27px;
+top: -10px;
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 22.9487px;
+line-height: 28px;
+
+color: #000000;
+	
+}
+
+#addrload{
+	
+	width: 385px;
+	height: 38px;
+}
+
+.addrdetail{
+	position:absolute;
+	left: 1100px;
+	top :1060px;
+	
+}
+.addrdetail_label{
+		position: absolute;
+width: 180.68px;
+height: 27px;
+top: -10px;
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 22.9487px;
+line-height: 28px;
+
+color: #000000;
+	
+}
+
+
+#addrdetail{
+	width: 385px;
+	height: 38px;
+	
+}
+
+.joinbutton{
+	
+position:absolute;
+width: 385px;
+height: 38px;
+	
+left:1100px;
+top:1150px;
+	
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 22.9487px;
+line-height: 28px;
+	
+background: #42CD71;
+}

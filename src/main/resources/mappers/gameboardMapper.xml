@@ -35,7 +35,7 @@ PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
 	
 	<insert id="gamebuy">
 		insert into trade(userid,boardnum,payment)
-		value(#{userid},#{boardnum},#{payment})
+		values (#{userid},#{boardnum},#{payment})
 		
 	
 	</insert>
@@ -68,5 +68,5 @@ PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
 		</if>
 	
 	</sql>
-	
+	S
 </mapper>

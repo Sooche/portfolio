@@ -5,7 +5,7 @@ PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
 <mapper namespace="game.site.wep.replyMapper">
 	<insert id="insert">
 		insert into reply(boardnum,userid,content,restep,relevel)
-		value (#{boardnum},#{userid},#{content},#{restep},#{relevel})
+		values (#{boardnum},#{userid},#{content},#{restep},#{relevel})
 	
 	</insert>
 	<update id="update">
